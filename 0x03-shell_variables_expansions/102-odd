@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lne 'print i $. %2 == 1'
